@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ice Task 1- Linked lists", "Ice Task 1- Linked lists\Ice Task 1- Linked lists.csproj", "{995A5DFF-CC1D-4B0F-A7A4-5F52430F65FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unit Tesing", "Unit Tesing\Unit Tesing.csproj", "{B386BC57-A228-41B0-9D88-597BA1390DD7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{995A5DFF-CC1D-4B0F-A7A4-5F52430F65FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{995A5DFF-CC1D-4B0F-A7A4-5F52430F65FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{995A5DFF-CC1D-4B0F-A7A4-5F52430F65FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{995A5DFF-CC1D-4B0F-A7A4-5F52430F65FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B386BC57-A228-41B0-9D88-597BA1390DD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B386BC57-A228-41B0-9D88-597BA1390DD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B386BC57-A228-41B0-9D88-597BA1390DD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B386BC57-A228-41B0-9D88-597BA1390DD7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C8E9B241-C573-49BF-8071-E71ED8287008}
+	EndGlobalSection
+EndGlobal
